@@ -9,7 +9,7 @@ multi line comment.
 Terminal (cmd ---> Command Prompt) :
 
 cls ---> clear the screen
-cd ---> change directory
+cd ---> change directory, cd .. ---> changes to parent level directory from the current directory.
 mkdir ---> make directory
 rmdir ---> remove directory
 '''
