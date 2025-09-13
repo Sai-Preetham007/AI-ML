@@ -17,5 +17,4 @@ rmdir ---> remove directory
 print("Hello $@! **7")
 
 x=5
-
 print("x :", x)
